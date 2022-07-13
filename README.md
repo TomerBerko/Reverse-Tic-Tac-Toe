@@ -9,11 +9,9 @@ in the app:
 3. The app will count the scores and announce the winner.
 
 ## Screenshots:
-- Login page:
-![login-page](screenshot1.png)
+- Game setting:
+![Game-setting](screenshot1.png)
 
-- Password Reset:
-![password-reset](screenshot2.png)
+- Board:
+![Board](screenshot2.png)
 
-- Sign up/Register:
-![password-reset](screenshot3.png)
